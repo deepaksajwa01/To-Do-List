@@ -43,16 +43,11 @@ nav li{
   margin: 20px;
 }
 
-/* ul{
-  position: relative;
-  width: 100%
-}
- */
 li{
   position: relative;
 }
 
-.delete{
+ .delete{
   text-decoration: none;
   color: white;
   background: #D72727;
@@ -62,17 +57,4 @@ li{
   top:0;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
