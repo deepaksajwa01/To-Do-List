@@ -40,8 +40,38 @@ nav li{
   list-style: none;
   border: 1px solid lightgrey;
   padding: 10px;
+  margin: 20px;
+}
+
+/* ul{
+  position: relative;
+  width: 100%
+}
+ */
+li{
+  position: relative;
+}
+
+.delete{
+  text-decoration: none;
+  color: white;
+  background: #D72727;
+  padding: 10px 15px;
+  position: absolute;
+  right: 0;
+  top:0;
 
 }
+
+
+
+
+
+
+
+
+
+
 
 
 
