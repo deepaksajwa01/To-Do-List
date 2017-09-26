@@ -17,8 +17,21 @@ header{
 }
 header h1{
   padding: 10px;
+  display: inline-block;
+  width: 40%;
+  margin-left: 20px;
 }
-
+header input{
+  position: absolute;
+  padding: 5px;
+  left: 0;
+  right:0;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 10px;
+  width: 40%;
+  border-radius: 2px;
+}
 .container form{
   padding: 10px;
   padding-left: 0px;
@@ -27,13 +40,11 @@ header h1{
 .container input[type="text"]{
  padding: 5px;
  font-size: 18px;
-
 }
 
 .container input[type="button"]{
   padding: 5px;
   font-size: 18px;
-
  }
 
 nav li{
@@ -55,6 +66,5 @@ li{
   position: absolute;
   right: 0;
   top:0;
-
 }
 
